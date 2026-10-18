@@ -1,0 +1,6 @@
+{
+  "name": "RBT Ninja 5 - Game & Kuiz RBT Tahun 5 KSSR",
+  "description": "Permainan aksi Fruit Ninja dan kuiz subjek RBT Tahun 5 KSSR Semakan (TP4-TP6) dengan simpanan data kekal, papan pendahulu dan portal guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
